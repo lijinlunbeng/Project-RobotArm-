@@ -36,4 +36,7 @@ Motion Detection(wallet)
 
 Reacher(*Unity*)
 
-##Sprint 3
+## Sprint 3
+1.Improve Object Detection （Supply a gap, e.g.:Yolo)
+2.Integration in the Unity
+3.Improve Drive System
