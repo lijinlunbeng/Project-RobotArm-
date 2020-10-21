@@ -11,7 +11,7 @@ Analyze images to identify specific items, training the Object Detection method 
 
 The conveyor delivers objects. The robot should identify the object, grab it, and move it to the destination.
 
-![Robot Arm](/images/capture.png)
+![Robot Arm](/images/Capture.png)
 
 ## Definition of archintecture
 
