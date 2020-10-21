@@ -54,9 +54,15 @@ The Documentation link below include installation and usage instructions specifi
 
 Motion Detection(wallet)
 
+### Analysis:
+
 3DBalls(*Unity*)
 
+### Analysis:
+
 Reacher(*Unity*)
+
+### Analysis:
 
 ## Sprint 3
 1.Improve Object Detection （Supply a gap, e.g.:Yolo)
@@ -65,10 +71,10 @@ Reacher(*Unity*)
 
 You only look once (YOLO) is a system for detecting objects on the Pascal VOC 2012 dataset. It can detect the 20 Pascal object classes:
 
-  1a.bird, cat, cow, dog, horse, sheep
-  2b.aeroplane, bicycle, boat, bus, car, motorbike, train
-  3c.bottle, chair, dining table, potted plant, sofa, tv/monitor
-  4d.person
+  a.bird, cat, cow, dog, horse, sheep
+  b.aeroplane, bicycle, boat, bus, car, motorbike, train
+  c.bottle, chair, dining table, potted plant, sofa, tv/monitor
+  d.person
 
 2.Integration in the Unity
 
