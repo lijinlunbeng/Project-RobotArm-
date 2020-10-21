@@ -6,6 +6,8 @@
 
 Analyze images to identify specific items, training the Object Detection method which we need in the picture, and then control the robot arm to implement the capture task.
 
+Computer Language: Python
+
 
 ### Minimum Value Project
 
@@ -18,7 +20,9 @@ The conveyor delivers objects. The robot should identify the object, grab it, an
 
 ## Technology Selection and justification
 
-### *Obeject Detection*
+### *Obeject Detection* (Python)
+
+Object detection is a computer technology related to computer vision and image processing that deals with detecting instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos.In our project, we only focus on specific items on the conveyor belt.
 
 ### *Unity Game Machine Learning*
 
