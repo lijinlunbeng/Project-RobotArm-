@@ -11,7 +11,7 @@ Analyze images to identify specific items, training the Object Detection method 
 
 The conveyor delivers objects. The robot should identify the object, grab it, and move it to the destination.
 
-<img src="capture.jpg">
+![GitHub Logo](/images/logo.png)
 
 ## Definition of archintecture
 
@@ -38,5 +38,7 @@ Reacher(*Unity*)
 
 ## Sprint 3
 1.Improve Object Detection （Supply a gap, e.g.:Yolo)
+
 2.Integration in the Unity
+
 3.Improve Drive System
