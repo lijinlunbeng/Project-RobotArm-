@@ -1,13 +1,26 @@
 # Project-RobotArm-sprint 2
 
+## Sprint 1
+
+### Inroduction
+
+Analyze images to identify specific items, training the Object Detection method which we need in the picture, and then control the robot arm to implement the capture task.
+
+
+### Minimum Value Project
+
+The conveyor delivers objects. The robot should identify the object, grab it, and move it to the destination.
+
+<img src="capture.jpg">
+
 ## Definition of archintecture
 
 
 ## Technology Selection and justification
 
-*Obeject Detection*
+### *Obeject Detection*
 
-*Unity Game Machine Learning*
+### *Unity Game Machine Learning*
 
 The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents. Agents can be trained using reinforcement learning, imitation learning, neuroevolution, or other machine learning methods through a simple-to-use Python API.
 
@@ -22,3 +35,5 @@ Motion Detection(wallet)
 3DBalls(*Unity*)
 
 Reacher(*Unity*)
+
+##Sprint 3
