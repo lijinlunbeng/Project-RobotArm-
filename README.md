@@ -3,5 +3,5 @@
 Brief
 
 
-##nity Link
+## Unity Examples Link
 [ML-agents](https://github.com/Unity-Technologies/ml-agents)
