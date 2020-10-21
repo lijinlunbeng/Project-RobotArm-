@@ -1,4 +1,4 @@
-# Project-RobotArm-sprint 2
+# Project-RobotArm
 
 ## Sprint 1
 
