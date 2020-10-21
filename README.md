@@ -65,10 +65,10 @@ Reacher(*Unity*)
 
 You only look once (YOLO) is a system for detecting objects on the Pascal VOC 2012 dataset. It can detect the 20 Pascal object classes:
 
-  1.bird, cat, cow, dog, horse, sheep
-  2.aeroplane, bicycle, boat, bus, car, motorbike, train
-  3.bottle, chair, dining table, potted plant, sofa, tv/monitor
-  4.person
+  1a.bird, cat, cow, dog, horse, sheep
+  2b.aeroplane, bicycle, boat, bus, car, motorbike, train
+  3c.bottle, chair, dining table, potted plant, sofa, tv/monitor
+  4d.person
 
 2.Integration in the Unity
 
