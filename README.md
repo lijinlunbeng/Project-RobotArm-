@@ -85,6 +85,14 @@ Reacher(*Unity*)
 
 ![](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/6.jpg)
 
+The first picture shows that our reacher game. There are 24 recatangular maps, and each map has one white reacher agent. And then reacher agents will use their blue head to touch the green balls to gain winning scores. The agents must move its head to the goal location, and keep it there. The environment contains 10 agents will same behavior parameters. And the reward functions is independent, +0.1 each step agens' head is in goal location
+Through a long time training, each agent will have highly abilty to catch the green balls. 
+
+The second picture shows the behavior parameters of our agents.Vector Observation space: 26 variables corresponding to position, rotation, velocity, and angular velocities of the two arm rigid bodies. Vector Action space: (Continuous) Size of 4, corresponding to torque applicable to two joints.
+Visual Observations: None.
+
+The third pirctures show our trainings.
+
 ## Sprint 3
 1.Improve Object Detection （Supply a gap, e.g.:Yolo)
 
