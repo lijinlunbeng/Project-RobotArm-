@@ -83,7 +83,7 @@ Reacher(*Unity*)
 
 ![](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/5.png)
 
-![](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/2.png)
+![](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/6.jpg)
 
 ## Sprint 3
 1.Improve Object Detection （Supply a gap, e.g.:Yolo)
