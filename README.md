@@ -1,7 +1,10 @@
 # Project-RobotArm-sprint 2
 
-Brief
 
 
-## Unity Examples Link
+
+## Technology Selection and justification
+
+*Obeject Detection*
+*Unity Game Machine Learning*
 [ML-agents](https://github.com/Unity-Technologies/ml-agents)
