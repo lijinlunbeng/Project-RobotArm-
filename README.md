@@ -54,7 +54,13 @@ The Documentation link below include installation and usage instructions specifi
 
 ### Analysis:
 
-Motion Detection(wallet)
+Motion Detection
+
+![](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/7.jpg)
+
+![](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/8.jpg)
+
+These two pictures show our personal motion detection code, which are trying to find the specific items (USB item), but unfortunatly, it doesn't work well to recongnize what we want. So we find another alternative way (YOLO), we will talk details in sprint 3.
 
 ### Analysis:
 
