@@ -74,6 +74,11 @@ These two pictures show our personal motion detection code, which are trying to 
 
 ![](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/3.png)
 
+The first picture shows that our 3D ball easy game. It is a balance ball task, where the agent balances the ball on it's head. And the goal of it, the agent must balance the ball on it's head for as long as possible. The environment contains 12 agents of the same kind, all using the same bahavior parameters. Hence, for the agent reward function, +0.1 for every step the ball reamins on it's head, or -1.0 if the ball falls of.
+
+The second picture shows that the bahavior parameters of our 3D balls. Vector Observation space: 8 variables corresponding to rotation of the agent cube, and position and velocity of ball. Vector Observation space (Hard Version): 5 variables corresponding to rotation of the agent cube and position of ball. Vector Action space: (Continuous) Size of 2, with one value corresponding to X-rotation, and the other to Z-rotation. Visual Observations: Third-person view from the upper-front of the agent.
+
+The third picture shows that our local trainings.
 
 #### Analysis:
 
