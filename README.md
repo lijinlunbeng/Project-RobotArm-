@@ -17,6 +17,17 @@ The conveyor delivers objects. The robot should identify the object, grab it, an
 
 ## Definition of archintecture
 
+1. Image processing
+
+Image processing is the problem of identifying to which of a set of categories (sub-populations) a new observation belongs, on the basis of a training set of data containing observations (or instances) whose category membership is known.
+
+2. Robotic arm control system
+
+A control system manages, commands, directs, or regulates the behavior of Robotic Arm using control loops.
+
+3. Overall integration on Unity
+
+
 
 ## Technology Selection and justification
 
