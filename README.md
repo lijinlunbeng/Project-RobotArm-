@@ -61,6 +61,15 @@ Reacher(*Unity*)
 ## Sprint 3
 1.Improve Object Detection （Supply a gap, e.g.:Yolo)
 
+[Yolo-example](https://elody.com/scenario/plan/88)
+
+You only look once (YOLO) is a system for detecting objects on the Pascal VOC 2012 dataset. It can detect the 20 Pascal object classes:
+
+1.bird, cat, cow, dog, horse, sheep
+2.aeroplane, bicycle, boat, bus, car, motorbike, train
+3.bottle, chair, dining table, potted plant, sofa, tv/monitor
+4.person
+
 2.Integration in the Unity
 
 3.Improve Drive System
