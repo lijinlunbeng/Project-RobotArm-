@@ -15,7 +15,9 @@ The conveyor delivers objects. The robot should identify the object, grab it, an
 
 ![Robot Arm](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/robotarm.jpg)
 
-## Definition of archintecture
+## Sprint 2
+
+### Definition of archintecture
 
 1. Image processing
 
@@ -29,13 +31,13 @@ A control system manages, commands, directs, or regulates the behavior of Roboti
 
 
 
-## Technology Selection and justification
+### Technology Selection and justification
 
-### *Obeject Detection* (Python)
+#### *Obeject Detection* (Python)
 
 Object detection is a computer technology related to computer vision and image processing that deals with detecting instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos.In our project, we only focus on specific items on the conveyor belt.
 
-### *Unity Game Machine Learning*
+#### *Unity Game Machine Learning*
 
 The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents. Agents can be trained using reinforcement learning, imitation learning, neuroevolution, or other machine learning methods through a simple-to-use Python API.
 
@@ -50,9 +52,9 @@ The Documentation link below include installation and usage instructions specifi
 [ML-Examples](https://github.com/Unity-Technologies/ml-agents/tree/release_7)
 
 
-## Functional Demonstration of major user story
+#### Functional Demonstration of major user story
 
-### Analysis:
+#### Analysis:
 
 Motion Detection
 
@@ -62,7 +64,7 @@ Motion Detection
 
 These two pictures show our personal motion detection code, which are trying to find the specific items (USB item), but unfortunatly, it doesn't work well to recongnize what we want. So we find another alternative way (Yolo), we will talk details in sprint 3.
 
-### Analysis:
+#### Analysis:
 
 3DBalls(*Unity*)
 
@@ -73,7 +75,7 @@ These two pictures show our personal motion detection code, which are trying to 
 ![](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/3.png)
 
 
-### Analysis:
+#### Analysis:
 
 Reacher(*Unity*)
 
