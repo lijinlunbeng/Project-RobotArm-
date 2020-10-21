@@ -13,7 +13,7 @@ Computer Language: Python
 
 The conveyor delivers objects. The robot should identify the object, grab it, and move it to the destination.
 
-![Robot Arm](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/Capture.PNG)
+![Robot Arm](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/robotarm.jpg)
 
 ## Definition of archintecture
 
