@@ -13,7 +13,7 @@ Computer Language: Python
 
 The conveyor delivers objects. The robot should identify the object, grab it, and move it to the destination.
 
-![Robot Arm](images/Capture.png)
+![Robot Arm](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/Capture.PNG)
 
 ## Definition of archintecture
 
@@ -50,8 +50,6 @@ The Documentation link below include installation and usage instructions specifi
 
 ## Functional Demonstration of major user story
 
-## Demo Examples
-
 ### Analysis:
 
 Motion Detection(wallet)
@@ -67,7 +65,7 @@ Reacher(*Unity*)
 ## Sprint 3
 1.Improve Object Detection （Supply a gap, e.g.:Yolo)
 
-[Yolo-example](https://elody.com/scenario/plan/88)
+[Yolo-example](https://www.youtube.com/watch?v=4eIBisqx9_g)
 
 You only look once (YOLO) is a system for detecting objects on the Pascal VOC 2012 dataset. It can detect the 20 Pascal object classes:
 
