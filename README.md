@@ -41,6 +41,8 @@ The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project 
 
 [ML-agents](https://github.com/Unity-Technologies/ml-agents)
 
+![ML-agents](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/images/image-banner.png)
+
 Using Version: Release 7
 
 The Documentation link below include installation and usage instructions specific to each release.
