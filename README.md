@@ -3,7 +3,7 @@
 ## Definition of archintecture
 
 
-### Technology Selection and justification
+## Technology Selection and justification
 
 *Obeject Detection*
 
@@ -13,9 +13,9 @@ The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project 
 
 [ML-agents](https://github.com/Unity-Technologies/ml-agents)
 
-#### Functional Demonstration of major user story
+## Functional Demonstration of major user story
 
-##### Demo Examples
+## Demo Examples
 
 Motion Detection(wallet)
 
