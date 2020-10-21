@@ -60,22 +60,35 @@ Motion Detection
 
 ![](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/8.jpg)
 
-These two pictures show our personal motion detection code, which are trying to find the specific items (USB item), but unfortunatly, it doesn't work well to recongnize what we want. So we find another alternative way (YOLO), we will talk details in sprint 3.
+These two pictures show our personal motion detection code, which are trying to find the specific items (USB item), but unfortunatly, it doesn't work well to recongnize what we want. So we find another alternative way (Yolo), we will talk details in sprint 3.
 
 ### Analysis:
 
 3DBalls(*Unity*)
 
+![](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/1.png)
+
+![](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/2.png)
+
+![](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/3.png)
+
+
 ### Analysis:
 
 Reacher(*Unity*)
+
+![](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/4.png)
+
+![](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/5.png)
+
+![](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/6.png)
 
 ## Sprint 3
 1.Improve Object Detection （Supply a gap, e.g.:Yolo)
 
 [Yolo-example](https://www.youtube.com/watch?v=4eIBisqx9_g)
 
-You only look once (YOLO) is a system for detecting objects on the Pascal VOC 2012 dataset. It can detect the 20 Pascal object classes:
+You only look once (Yolo) is a system for detecting objects on the Pascal VOC 2012 dataset. It can detect the 20 Pascal object classes:
 
   a.bird, cat, cow, dog, horse, sheep
   b.aeroplane, bicycle, boat, bus, car, motorbike, train
