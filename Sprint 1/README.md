@@ -8,9 +8,9 @@ The robot has full control of its robotic arm, and can use it to move objects. T
 
 # Possible additions
 
-## 1.The conveyor delivers several kinds of objects. Only one type of them should be moved to the designated area, and the rest should remain untouched. The robot understands this, and behaves accordingly. 
+1.The conveyor delivers several kinds of objects. Only one type of them should be moved to the designated area, and the rest should remain untouched. The robot understands this, and behaves accordingly. 
 
-## 2.The conveyor delivers several kinds of objects. Objects should be classified and moved to different areas. The robot understands this, and behaves accordingly.
+2.The conveyor delivers several kinds of objects. Objects should be classified and moved to different areas. The robot understands this, and behaves accordingly.
 
 # Technologies to evaluate and reasons for choosing them
 

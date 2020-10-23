@@ -9,7 +9,7 @@ Yongjie Yang yangyj@bu.edu
 
 Sen Zhang jasonall@bu.edu
 
-**If you like this project, please give me a star**
+**If you like this project, please give us a star**
 
 ## Sprint 1
 
