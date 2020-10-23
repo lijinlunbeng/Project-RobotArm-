@@ -1,6 +1,6 @@
 # Project-RobotArm
 
-**If you like this project, please give me a star ![](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/download.png)**
+**If you like this project, please give me a star**
 
 ## Sprint 1
 
