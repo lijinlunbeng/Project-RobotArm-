@@ -1,0 +1,2 @@
+mlagents-learn config/ppo/3DBall.yaml --run-id=first3DBallRun
+mlagents-learn config/ppo/Reacher.yaml --run-id=Reacher1
