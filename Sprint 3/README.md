@@ -2,20 +2,34 @@
 
 ## ArmRobot Unity Model
 
+This is a unity model of ArmRobot. 
+
 ### Code
 
-#### 如何放物块
-假设出来了能识别的球体，正方体，长方体，已经告诉了机械臂求在哪儿了！
+Ten components in the file.
 
-#### 如何抓物体
-机械臂如何转
+1.Edge
+2.Grab
+3.Item
+4.ItemPlane (Conveyor)
+5.MechanicalArm
+6.Move
+7.MovePlane
+8.Node (three)
+9.Region
+10.UI
 
-#### 物体如何消失
+#### Without Machine Learning
+
+Basically, we have assumed knowing what item it is.
+
+#### MachanicalArm Coding
+
+### User Interface
+
+There are three lines shows our grabing results
 
 ### Demo
-
-### Interface
-有三个物块儿的抓取综合
 
 # Sprint 4
 
