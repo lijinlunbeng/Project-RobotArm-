@@ -48,3 +48,6 @@ We really appreaciate some links from website to help us a lot for doing this.
 
 Imagin Processing (Yolo)
 
+We are trying to achieving and reproduce Yolo's module.
+
+[Yolo](https://github.com/pjreddie/darknet/wiki/YOLO:-Real-Time-Object-Detection)
