@@ -4,6 +4,10 @@
 
 This is a unity model of ArmRobot. 
 
+![ArmRobot](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/10.PNG)
+
+![ArmRobot2](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/11.PNG)
+
 ### Code
 
 Ten components in the file.
