@@ -1,7 +1,7 @@
-﻿using DG.Tweening;
+﻿using DG.Tweening; //中间计算
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Rendering;
+using UnityEngine.Rendering; //呈现
 
 public class MechanicalArm : MonoBehaviour
 {
@@ -46,6 +46,8 @@ public class MechanicalArm : MonoBehaviour
         NodeList[1].transform.DORotate(new Vector3(0, transform.localEulerAngles.y - 180, NodeList[1].transform.eulerAngles.z), GrabTime, RotateMode.Fast);
         NodeList[2].transform.DORotate(new Vector3(50, transform.localEulerAngles.y - 180, NodeList[2].transform.eulerAngles.z), GrabTime, RotateMode.Fast);
     }
+
+    //nodelist代表了关节点 0代表了底座 1代表了第二个圆球 2代表了头顶圆球
 
     public void Standby()
     {
