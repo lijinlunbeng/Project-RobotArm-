@@ -81,7 +81,7 @@ public class MechanicalArm : MonoBehaviour
                     {
                         itemList.ForEach(x =>
                         {
-                            Destroy(x);
+                            Destroy(x); //把盒子里的去掉！
                         });
                         itemList.Clear();
                     }
