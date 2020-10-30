@@ -35,6 +35,15 @@ There are three lines shows our grabing results
 
 ### Demo
 
+### Conference
+
+We really appreaciate some links from website to help us a lot for doing this.
+
+1. [Code](https://blog.csdn.net/Ro969668074/article/details/84788173?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)
+
+
+2. [Draw Unity Game](https://www.youtube.com/watch?v=7_JdDUGmLL0)
+
 # Sprint 4
 
 Imagin Processing (Yolo)
