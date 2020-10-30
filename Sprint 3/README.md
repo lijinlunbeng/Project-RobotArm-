@@ -37,6 +37,14 @@ There are three lines shows our grabing results
 
 ### Demo
 
+### Shortages
+
+1.Some dropping items bug
+
+2.Time is inaccurate sometimes
+
+3.ArmRobot cannot grab all items
+
 ### Conference
 
 We really appreaciate some links from website to help us a lot for doing this.
