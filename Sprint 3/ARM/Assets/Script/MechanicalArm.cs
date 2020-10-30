@@ -42,6 +42,7 @@ public class MechanicalArm : MonoBehaviour
             return;
         isStartGrab = true;
         //Debug.LogError("开始抓取");
+        //x,y,z
         NodeList[0].transform.DORotate(new Vector3(-50, transform.localEulerAngles.y - 180, NodeList[0].transform.eulerAngles.z), GrabTime, RotateMode.Fast);
         NodeList[1].transform.DORotate(new Vector3(0, transform.localEulerAngles.y - 180, NodeList[1].transform.eulerAngles.z), GrabTime, RotateMode.Fast);
         NodeList[2].transform.DORotate(new Vector3(50, transform.localEulerAngles.y - 180, NodeList[2].transform.eulerAngles.z), GrabTime, RotateMode.Fast);
