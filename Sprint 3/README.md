@@ -2,7 +2,11 @@
 
 ## ArmRobot Unity Model
 
-This is a unity model of ArmRobot. 
+A famous game in Steam Platform (Factorio)
+
+![Factorio](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/Gl4ckPl.jpg)
+
+This is our Unity model of ArmRobot. 
 
 ![ArmRobot](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/10.PNG)
 
