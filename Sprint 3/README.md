@@ -58,6 +58,12 @@ We really appreaciate some links from website to help us a lot for doing this.
 
 2. [Draw Unity Game](https://www.youtube.com/watch?v=7_JdDUGmLL0)
 
+3. [Unity 3D Arm](https://github.com/JinghanSun/armSimulationByUnity3D)
+
+4. [ArmSwinger](https://github.com/ElectricNightOwl/ArmSwinger)
+
+5. [Conveyorbelt](https://www.youtube.com/watch?v=zTXSdvKs5lc)
+
 # Sprint 4
 
 Imagin Processing (Yolo)
