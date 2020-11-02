@@ -1,13 +1,13 @@
 # Project-RobotArm
 
 ## Task
-Put a self-learning robot by a conveyor and let it learn for itself what to do. The robot has a GPU, cameras, depth sensors and a mechanic arm. Literal analysis only. The code is yet to be completed.
+Put a self-learning robot by a conveyor and let it learn for itself what to do. A repository for EC601 Product Design Section A2 Team 5 project.
 
-Author: 
+## Contributors: 
 
-Yongjie Yang yangyj@bu.edu 
+Yongjie Yang - yangyj@bu.edu 
 
-Sen Zhang jasonall@bu.edu
+Sen Zhang - jasonall@bu.edu
 
 **If you like this project, please give us a star**
 
