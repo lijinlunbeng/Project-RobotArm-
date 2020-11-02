@@ -92,10 +92,3 @@ We really appreaciate some links from website to help us a lot for doing this.
 6. [Eulerrangle](https://blog.csdn.net/schrodinger1900/article/details/52734568)
 
 
-# Sprint 4
-
-Imagin Processing (Yolo)
-
-We are trying to achieving and reproduce Yolo's module.
-
-[Yolo](https://github.com/pjreddie/darknet/wiki/YOLO:-Real-Time-Object-Detection)
