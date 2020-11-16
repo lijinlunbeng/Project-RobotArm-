@@ -12,6 +12,9 @@ We discovered by studying the ml-agents example projects that a tf-model is need
 The 3DBall example project is an example in the ml-agents 
 toolkit provided by the Unity Technology. We discovered that 
 its tfmodel had 34 layers and 26 constants(using 41 weights). 
+
+![3DBall](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/12.jpg)
+
 By interacting with this model file, the Unity software is
 able to train the agents with tensorflow, which is a tool 
 for machine learning. However, how this model should be written and how the scripts interact with it are not clear yet. We plan to take a deeper look in the future.
@@ -26,6 +29,8 @@ We are trying to achieving and reproduce Yolo's module.
 
 ## Integration within Unity
 We plan to integrate the Unity project itself with the Object Detection module.
+
+![Integration Plan](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/13.jpg)
 
 The robot in Unity software is one of the two modules of the
 entire project. The other module is the identification of objects.
