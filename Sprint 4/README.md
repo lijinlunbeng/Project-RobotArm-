@@ -58,7 +58,7 @@ We then inserted an if sentence in the grab function of the robotic arm script(f
 
 Changes to this Control.txt file becomes effective immediately and do not require the Unity simulation to stop. It can be changed anytime, even when the Unity simulation is running, and when the next object comes, the robotic arm acts under the control of the changed Control.txt file.
 
-## Summary
+## Summary (Sprint 5)
 
 We have finished the majority of the entire project, and have achieved external control of the Unity game simulation. The information and control close-loop is established, except that the object identification module is not ready. The Unity game can even be controlled manually, where
 human control takes the place of object identification module.
