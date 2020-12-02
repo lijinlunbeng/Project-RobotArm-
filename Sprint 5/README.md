@@ -37,6 +37,8 @@ the robotic arm simulation game, which is a Unity project. Unity does not suppor
 these two parts of this project. They way we achieve external control of the Unity project using a Python 
 program is to let it access a txt file(Control.txt). 
 
+![Integration Plan](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/13.jpg)
+
 Correction: In sprint 4, we put the text file in the Resources folder, which is in fact a part of the Unity
 program, and used the *Resources.Load* function to access the file. However, changes to this file can only
 come to effect when the user manually open and edit the file, or when the user presses the pause button 
