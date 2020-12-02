@@ -13,6 +13,10 @@ Quantified values make image processing more convenient.
 
 Using the Python program itself to take a screenshot is faster and more convenient than using the Unity Recorder.
 
+![Cuboid](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/14.jpg)
+![Sphere](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/15.jpg)
+
+
 ## UI (Interface)
 
 For easy control of the program, we made an interface using *tkinter* package. By clicking on the buttons 
@@ -24,6 +28,7 @@ continuously scans the screenshot image for the target. If the target is in the 
 *Control.txt* text file, which will be accessed by the Unity program later. If the target is not in the
 image, it writes "0" in the file.
 
+![User Interface](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/16.jpg)
 
 ## Connection of Image Processing and Unity Game
 
