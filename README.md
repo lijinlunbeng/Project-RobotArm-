@@ -1,6 +1,7 @@
 # Project-RobotArm
 
 ## Task
+
 Put a self-learning robot by a conveyor and let it learn for itself what to do. A repository for EC601 Product Design Section A2 Team 5 project.
 
 ## Contributors: 
@@ -67,19 +68,26 @@ Build a new basic Unity game of a ArmRobot
 
 ## Sprint 4
 
-1.Improve Object Detection （Supply a gap, e.g.:Yolo)
+[Sprint 4](https://github.com/lijinlunbeng/Project-RobotArm-/tree/main/Sprint%204)
 
-[Yolo-example](https://www.youtube.com/watch?v=4eIBisqx9_g)
+### Improve Object Detection
 
-You only look once (Yolo) is a system for detecting objects on the Pascal VOC 2012 dataset. It can detect the 20 Pascal object classes:
+The Python program takes screenshots continuously and stores them in a certain directory for access. 
+The screenshot is very small (409 pixels) and only covers the key area where object identification will happen.
+The image will be transformed into an array (by using the package *numpy*) and then analyzed.
 
-  a.bird, cat, cow, dog, horse, sheep
-  b.aeroplane, bicycle, boat, bus, car, motorbike, train
-  c.bottle, chair, dining table, potted plant, sofa, tv/monitor
-  d.person
 
 ## Sprint 5
 
-1.Integration in the Unity
+[Sprint 5](https://github.com/lijinlunbeng/Project-RobotArm-/tree/main/Sprint%205)
 
-2.Improve Drive System
+Integration our Unity game and Image Processing
+
+### Improve User Interface
+
+For easy control of the program, we made an interface using *tkinter* package. By clicking on the buttons 
+on the interface, we can choose which objects to grab, or whether the arm will grab anything at all.
+There are five options: Spheres, Cubes, Cuboids, All objects, and No object.
+
+
+
