@@ -89,5 +89,10 @@ For easy control of the program, we made an interface using *tkinter* package. B
 on the interface, we can choose which objects to grab, or whether the arm will grab anything at all.
 There are five options: Spheres, Cubes, Cuboids, All objects, and No object.
 
+## Poster and Video Introduction
 
+We made an introduction poster and a video demo for thi project. You can take a brief look for our poster and you can also download our video for our detailed demonstration.
 
+[Poster](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/18.pdf)
+
+[Video Demo](https://github.com/lijinlunbeng/Project-RobotArm-/tree/main/Video%20Introduction)
