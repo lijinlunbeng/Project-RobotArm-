@@ -1,5 +1,9 @@
 # Project-RobotArm
 
+## Poster
+
+![Poster](https://github.com/lijinlunbeng/Project-RobotArm-/blob/main/images/17.jpg)
+
 ## Task
 
 Put a self-learning robot by a conveyor and let it learn for itself what to do. A repository for EC601 Product Design Section A2 Team 5 project.
